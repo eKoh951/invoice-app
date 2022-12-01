@@ -2,6 +2,9 @@
 
 ![Design preview for the Invoice app coding challenge](./preview.jpg)
 
+## Figma file
+https://www.figma.com/file/mkIpkIjPBTNHOKSxyDz84K/invoice-app?node-id=0%3A1&t=PJA8s48CIxG8JREJ-1
+
 ## Welcome! 👋
 
 Thanks for purchasing this premium Frontend Mentor coding challenge.
